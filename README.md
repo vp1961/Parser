@@ -1,5 +1,4 @@
 # Sibdev
-<h1>Test task for Sibdev</h1>
 
 <h2>Install</h2>
 <p>pip install -r requirements.txt</p>
