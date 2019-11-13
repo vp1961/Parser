@@ -1,6 +1,7 @@
 # Sibdev
 
 <h2>Install</h2>
+git clone git@github.com: https://github.com/vp1961/Sibdev.git
 <p>pip install -r requirements.txt</p>
 <p>python manage.py makemigrations</p>
 <p>python manage.py migrate</p>
