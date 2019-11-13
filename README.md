@@ -11,4 +11,4 @@
 <p>python3 manage.py runserver</p>
 
 <h2>Start</h2>
-<a hreh ="http://127.0.0.1:8000/admin/" />
+<p> go to http://127.0.0.1:8000/admin/</p>
