@@ -9,6 +9,6 @@ FROM Table1 t1
 INNER JOIN Table2 t2
 	ON t1.ID = t2.EmployeeID
 INNER JOIN Table3 t3
-	on t1.ID = t3.EmployeeID
+	ON t1.ID = t3.EmployeeID
 
 SELECT * FROM Table4
