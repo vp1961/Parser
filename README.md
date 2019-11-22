@@ -1,5 +1,3 @@
-# Sibdev
-
 <h2>Install</h2>
 
 <p>git clone or download</p>
